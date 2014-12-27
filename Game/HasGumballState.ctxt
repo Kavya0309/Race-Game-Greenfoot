@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=bike
+comment0.target=HasGumballState(Bike)
+comment1.params=
+comment1.target=void\ gumballCollected()
+numComments=2

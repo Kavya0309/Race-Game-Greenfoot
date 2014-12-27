@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=obj
+comment0.target=void\ attach(Observers)
+comment1.params=obj
+comment1.target=void\ detach(Observers)
+comment2.params=
+comment2.target=void\ notifyObservers()
+comment3.params=s
+comment3.target=void\ setState(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getState()
+numComments=5
